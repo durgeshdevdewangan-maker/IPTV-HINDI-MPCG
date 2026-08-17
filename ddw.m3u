@@ -21,6 +21,7 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/maste
 #EXTINF:-1 tvg-id="1635" tvg-name="News State MPCG " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_State_MPCG.png" tvg-language="Hindi" group-title="CG Channel", News State MPCG 
 https://mumt01.tangotv.in/NEWSSTATEMPCG/index.m3u8
 
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/in.xml.gz"
 #EXTINF:-1 tvg-id="IN4000012ML" tvg-name="News State MP CG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000012ML_20260623T015408SQUARE.png",News State MP CG
 https://jmp2.uk/stvp-IN4000012ML
 
@@ -66,7 +67,7 @@ https://www.youtube.com/watch?v=uvuvwES2MUo
 #EXTINF:-1 tvg-name="News 24 MP CG" group-title="MP CG News",News 24 MP CG - Hindi
 https://www.youtube.com/watch?v=TIjyQTIA7n8
 
-#EXTINF:-1 tvg-id="99" tvg-logo="",INH 24x72
+#EXTINF:-1 tvg-id="INH24x7.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INH_24X7/images/LOGO_HD/image.png" group-title="CG Channel",INH 24x72
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
