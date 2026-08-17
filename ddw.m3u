@@ -12,32 +12,31 @@ https://cdn-2.pishow.tv/live/477/master.m3u8
 #EXTINF:-1 tvg-id="INH24x7.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INH_24X7/images/LOGO_HD/image.png" group-title="CG Channel",INH 24x7 (396p)
 https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8
 
+#EXTINF:-1 tvg-id="INH24x7.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INH_24X7/images/LOGO_HD/image.png" group-title="CG Channel",INH 24x7 (576P)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/99/99_0.m3u8
+
 #EXTINF:-1 tvg-id="515" tvg-name="India News MP" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_MP.png" tvg-language="Hindi" group-title="CG Channel", India News MP
 http://103.159.180.34:5001/live/515.m3u8
 
 #EXTINF:-1 tvg-id="658" tvg-name="Zee MP Chattisgarh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News_MP_Chattisgarh.png" tvg-language="Hindi" group-title="CG Channel", Zee MP Chattisgarh
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8
 
-#EXTINF:-1 tvg-id="1635" tvg-name="News State MPCG " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_State_MPCG.png" tvg-language="Hindi" group-title="CG Channel", News State MPCG 
-https://mumt01.tangotv.in/NEWSSTATEMPCG/index.m3u8
-
-#EXTINF:-1 tvg-id="IN4000012ML" tvg-name="News State MP CG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000012ML_20260623T015408SQUARE.png",News State MP CG
-https://jmp2.uk/stvp-IN4000012ML
-
-#EXTINF:-1 tvg-name="Vistaar News" group-title="MP CG News",Vistaar News - Hindi
-https://cdn-media-content.onestream.studio/content/hls/live/live_2696092_s3wq69t21/hls.m3u8
-
-#EXTINF:-1 tvg-id="IN2100008VF" tvg-name="News24 MP CG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100008VF_20260623T015515SQUARE.png",News24 MP CG
-https://jmp2.uk/stvp-IN2100008VF
-
-#EXTINF:-1 tvg-id="1817" tvg-name="NEWS 24 MPCG" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NEWS_24_MPCG.png" tvg-language="Hindi" group-title="CG Channel", NEWS 24 MPCG
-https://mumt04.tangotv.in/NEWS24MPCG/index.m3u8
 
 #EXTINF:-1 tvg-id="2771" tvg-name="Sadhna News MP CG" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadhna_News_MP_CG.png" tvg-language="Hindi" group-title="CG Channel", Sadhna News MP CG
 http://103.159.180.34:5001/live/2771.m3u8
 
-#EXTINF:-1 tvg-id="2732" tvg-name="Vistara News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VistaraNews.png" tvg-language="Kannada" group-title="News", Vistara News
+#EXTINF:-1 tvg-id="2732" tvg-name="Vistaar News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vistaar_News.png" tvg-language="Hindi" group-title="CG Channel", Vistara News
 http://103.175.73.12:8080/live/734/master.m3u8
+
+#EXTINF:-1 tvg-id="1817" tvg-name="NEWS 24 MPCG" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NEWS_24_MPCG.png" tvg-language="Hindi" group-title="CG Channel", NEWS 24 MPCG
+https://amg13643-amg13643c4-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c4-amgplt0016/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1635" tvg-name="News State MPCG " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_State_MPCG.png" tvg-language="Hindi" group-title="CG Channel", News State MPCG 
+https://cc-jwd96atz4mxfd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jwd96atz4mxfd/nntv/nnmp/index.m3u8
 
 #EXTINF:-1 tvg-id="DDChhattisgarh.in@SD" tvg-logo="https://i.imgur.com/zBg6Iuv.png" group-title="CG Channel",DD Chhattisgarh (720p)
 https://cdn-1.pishow.tv/live/15/master.m3u8
@@ -45,26 +44,16 @@ https://cdn-1.pishow.tv/live/15/master.m3u8
 #EXTINF:-1 tvg-id="3083" tvg-name="Sundrani TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sundrani_TV.png" tvg-language="" group-title="CG Channel", Sundrani TV
 http://103.159.180.34:5001/live/3083.m3u8
 
-#EXTINF:-1 tvg-id="3486" tvg-name="MP Today" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MPToday.png" tvg-language="Hindi" group-title="MP News", MP Today
+#EXTINF:-1 tvg-id="3486" tvg-name="MP Today" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MPToday.png" tvg-language="Hindi News" group-title="MP News", MP Today
 http://103.159.180.34:5001/live/3486.m3u8
 
-#EXTINF:-1 tvg-id="1608" tvg-name="MP News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MP_News.png" tvg-language="Hindi" group-title="MP News", MP News
+#EXTINF:-1 tvg-id="1608" tvg-name="MP News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MP_News.png" tvg-language="Hindi News" group-title="MP News", MP News
 http://103.159.180.34:5001/live/1608.m3u8
 
-#EXTINF:-1 tvg-id="ZeeBusiness.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png?lock=720x540" group-title="Hindi Business",Zee Business (720p)
+#EXTINF:-1 tvg-id="ZeeBusiness.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png?lock=720x540" group-title="Hindi News",Zee Business (720p)
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 
-#EXTINF:-1 tvg-name="Sadhna News MP CG" group-title="MP CG News",Sadhna News MP CG - Hindi
-https://www.youtube.com/watch?v=5W_wKiXT_A4
 
-#EXTINF:-1 tvg-name="Bansal News MP CG" group-title="MP CG News",Bansal News MP CG - Hindi
-https://www.youtube.com/watch?v=J5887WBgToc
 
-#EXTINF:-1 tvg-name="India News MP CG" group-title="MP CG News",India News MP CG - Hindi
-https://www.youtube.com/watch?v=uvuvwES2MUo
 
-#EXTINF:-1 tvg-name="News 24 MP CG" group-title="MP CG News",News 24 MP CG - Hindi
-https://www.youtube.com/watch?v=TIjyQTIA7n8
 
-#EXTINF:-1 tvg-name="Vistaar News" group-title="MP CG News",Vistaar News - Hindi
-https://cdn-media-content.onestream.studio/content/hls/live/live_2696092_s3wq69t21/hls.m3u8
