@@ -21,3 +21,8 @@ https://cdn-media-content.onestream.studio/content/hls/live/live_2696092_s3wq69t
 
 #EXTINF:-1 tvg-name="Vistaar News" group-title="MP CG News",Vistaar News - Hindi
 https://cdn-media-content.onestream.studio/content/hls/live/live_2696092_s3wq69t21/hls.m3u8
+
+#EXTINF:-1 tvg-name="Vistaar News" group-title="Hindi News",Vistaar News
+#EXTVLCOPT:http-referrer=https://vistaarnews.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn-media-content.onestream.studio/content/hls/live/live_2696092_s3wq69t21/hls.m3u8
