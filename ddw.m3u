@@ -56,14 +56,13 @@ https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-id="IN3800003SV" tvg-name="TV9 Bharatvarsh" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800003SV_20260805T004026SQUARE.png"" tvg-language="Hindi News" group-title="Hindi News", TV9 Bharatvarsh
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-bpaaj2ei5t6vo.m3u8
 
-#EXTINF:-1 tvg-id="IN38000072R" tvg-name="The Movie Club" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260805T004037SQUARE..png"" tvg-language="Hindi Movie" group-title="Hindi Movie", The Movie Club 1
+#EXTINF:-1 tvg-id="IN38000072R" tvg-name="The Movie Club" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260805T004037SQUARE.png"" tvg-language="Hindi Movie" group-title="Hindi Movie", The Movie Club 1
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 
 #EXTINF:-1 tvg-id="IN40000100Y" tvg-name="The Movie Club+2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260812T011014SQUARE.png"" tvg-language="Hindi Movie" group-title="Hindi Movie", The Movie Club 2
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-7bc7k87sjhz5z.m3u8
 
-
-#EXTINF:-1 tvg-id="IN4000600Q" tvg-name="Bollygold" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20260805T003941SQUARE.png"" tvg-language="Hindi Movie" group-title="Hindi Movie"Bollygold
+#EXTINF:-1 tvg-id="IN4000600Q" tvg-name="Bollygold" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20260805T003941SQUARE.png"" tvg-language="Hindi Movie" group-title="Hindi Movie", Bollygold
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-g6lvasa1ob5y5.m3u8
 
 
