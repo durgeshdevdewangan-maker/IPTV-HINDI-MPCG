@@ -32,7 +32,7 @@ https://cdn-media-content.onestream.studio/content/hls/live/live_2696092_s3wq69t
 https://jmp2.uk/stvp-IN2100008VF
 
 #EXTINF:-1 tvg-id="1817" tvg-name="NEWS 24 MPCG" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NEWS_24_MPCG.png" tvg-language="Hindi" group-title="CG Channel", NEWS 24 MPCG
-https://mumt04.tangotv.in/NEWS24MPCG/index.m3u8
+https://amg13643-amg13643c4-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c4-amgplt0016/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2771" tvg-name="Sadhna News MP CG" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadhna_News_MP_CG.png" tvg-language="Hindi" group-title="CG Channel", Sadhna News MP CG
 http://103.159.180.34:5001/live/2771.m3u8
