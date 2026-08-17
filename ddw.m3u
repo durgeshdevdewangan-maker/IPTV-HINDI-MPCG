@@ -66,6 +66,13 @@ https://www.youtube.com/watch?v=uvuvwES2MUo
 #EXTINF:-1 tvg-name="News 24 MP CG" group-title="MP CG News",News 24 MP CG - Hindi
 https://www.youtube.com/watch?v=TIjyQTIA7n8
 
+#EXTINF:-1 tvg-id="99" tvg-logo="",INH 24x72
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/99/99_0.m3u8
+
 #EXTINF:-1 tvg-name="Vistaar News" group-title="MP CG News",Vistaar News - Hindi
 https://cdn-media-content.onestream.studio/content/hls/live/live_2696092_s3wq69t21/hls.m3u8
 
