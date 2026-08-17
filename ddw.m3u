@@ -28,8 +28,9 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/maste
 
 #EXTINF:-1 tvg-id="2771" tvg-name="Sadhna News MP CG" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadhna_News_MP_CG.png" tvg-language="Hindi" group-title="CG Channel", Sadhna News MP CG
 http://103.159.180.34:5001/live/2771.m3u8
+https://jiotvimages.cdn.jio.com/dare_images/images/VistaraNews.png
 
-#EXTINF:-1 tvg-id="2732" tvg-name="Vistaar News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vistaar_News.png" tvg-language="Hindi" group-title="News", Vistara News
+#EXTINF:-1 tvg-id="2732" tvg-name="Vistaar News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VistaraNews.png" tvg-language="Hindi" group-title="News", Vistara News
 http://103.175.73.12:8080/live/734/master.m3u8
 
 #EXTINF:-1 tvg-id="1817" tvg-name="NEWS 24 MPCG" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NEWS_24_MPCG.png" tvg-language="Hindi" group-title="CG Channel", NEWS 24 MPCG
@@ -53,6 +54,7 @@ http://103.159.180.34:5001/live/1608.m3u8
 #EXTINF:-1 tvg-id="ZeeBusiness.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png?lock=720x540" group-title="Hindi Business News",Zee Business (720p)
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 
+http://103.175.73.12:8080/live/734/master.m3u8
 
 
 
