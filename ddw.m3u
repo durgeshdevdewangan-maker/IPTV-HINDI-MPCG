@@ -42,4 +42,19 @@ http://103.159.180.34:5001/live/1608.m3u8
 #EXTINF:-1 tvg-id="ZeeBusiness.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png?lock=720x540" group-title="Hindi Business",Zee Business (720p)
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 
+#EXTINF:-1 tvg-name="Sadhna News MP CG" group-title="MP CG News",Sadhna News MP CG - Hindi
+https://www.youtube.com/watch?v=5W_wKiXT_A4
+
+#EXTINF:-1 tvg-name="Bansal News MP CG" group-title="MP CG News",Bansal News MP CG - Hindi
+https://www.youtube.com/watch?v=J5887WBgToc
+
+#EXTINF:-1 tvg-name="India News MP CG" group-title="MP CG News",India News MP CG - Hindi
+https://www.youtube.com/watch?v=uvuvwES2MUo
+
+#EXTINF:-1 tvg-name="News 24 MP CG" group-title="MP CG News",News 24 MP CG - Hindi
+https://www.youtube.com/watch?v=TIjyQTIA7n8
+
+#EXTINF:-1 tvg-name="Vistaar News" group-title="MP CG News",Vistaar News - Hindi
+https://cdn-media-content.onestream.studio/content/hls/live/live_2696092_s3wq69t21/hls.m3u8
+
 
