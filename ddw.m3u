@@ -222,6 +222,11 @@ http://103.175.73.12:8080/live/167/master.m3u8
 #KODIPROP:mimetype=application/dash+xml
 http://103.175.73.12:8080/live/344/master.m3u8
 
+
+#EXTINF:-1 tvg-id="609" tvg-name="mh1 Shraddha" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Mh-one-shraddhaa.png" tvg-language="Punjabi" group-title="Bhakti" tvg-chno="48", mh1 Shraddha 2
+http://103.159.180.34:5001/live/609.m3u8
+
+
 #EXTINF:-1 tvg-id="1193" tvg-name="Hare Krsna Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hare_Krsna_music.png" tvg-language="Hindi" group-title="Bhakti" tvg-chno="16", Hare Krsna Music
 http://103.159.180.34:5001/live/1193.m3u8
 
