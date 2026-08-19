@@ -114,7 +114,7 @@ https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8
 #EXTINF:-1 tvg-id="IndiaDailyLive.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Daily_24x7.png" tvg-language="Hindi News" group-title="Hindi News" tvg-chno="9",India Daily Live OTT (1080p)
 https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
 
-#EXTINF:-1 tvg-id="Mh1News.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Mh-one-shraddhaa.png" tvg-language="Hindi News" group-title="Hindi News" tvg-chno="10",Mh 1 News (360p)
+#EXTINF:-1 tvg-id="Mh1News.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143540_ld_h15_aa.png?lock=720x540" tvg-language="Hindi News" group-title="Hindi News" tvg-chno="10",Mh 1 News (360p)
 https://livestream.jswk.online/mhonenews/live/index.m3u8
 
 #EXTINF:-1 tvg-id="TimesNowNavbharat.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TIMES_NOW_NAVBHARAT_HD/images/LOGO_HD/image.png" tvg-language="Hindi News" group-title="Hindi News" tvg-chno="11",Times Now Navbharat (1080p)
@@ -215,7 +215,7 @@ http://103.159.180.34:5001/live/599.m3u8
 #KODIPROP:mimetype=application/dash+xml
 http://103.175.73.12:8080/live/167/master.m3u8
 
-#EXTINF:-1 tvg-id="609" tvg-name="mh1 Shraddha" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/mh1_Shraddha.png" tvg-language="Punjabi" group-title="Bhakti" tvg-chno="15", mh1 Shraddha
+#EXTINF:-1 tvg-id="609" tvg-name="mh1 Shraddha" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Mh-one-shraddhaa.png" tvg-language="Punjabi" group-title="Bhakti" tvg-chno="15", mh1 Shraddha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
