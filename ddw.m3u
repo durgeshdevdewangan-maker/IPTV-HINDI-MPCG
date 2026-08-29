@@ -40,14 +40,11 @@ https://cdn.originein.in/nntv/nnmp/index.m3u8
 #EXTINF:-1 tvg-id="2777" tvg-name="Asian News" tvg-logo="https://i.ibb.co/qL3XfWGP/Asian-News.png" tvg-language="Hindi" group-title="CG Channel" tvg-chno="11",Asian News
 https://stream.ottlive.co.in/asiannews/index.m3u8
 
-#EXTINF:-1 tvg-id="1670" tvg-name="C News Bharat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/C_News_Bharat.png" tvg-language="Hindi" group-title="CG Channel" tvg-chno="11",C News Bharat
+#EXTINF:-1 tvg-id="1670" tvg-name="C News Bharat" tvg-logo="https://i.ibb.co/h1y73htr/C-NEWS-BHARAT.png" tvg-language="Hindi" group-title="CG Channel" tvg-chno="11",C News Bharat
 https://legitpro.co.in/cnews/cnews/index.m3u8
 
 #EXTINF:-1 tvg-id="1728" tvg-name="Anaadi TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Anaadi_TV.png" tvg-language="Hindi" group-title="CG Channel" tvg-chno="11",Anaadi TV
 http://103.159.180.34:5001/live/1728.m3u8
-
-#EXTINF:-1 tvg-id="10" tvg-name="News 36" tvg-logo="https://accountapk.livebox.co.in/news36hls/live.m3u8  " tvg-language="Hindi" group-title="CG Channel" tvg-chno="11",News 36
-https://accountapk.livebox.co.in/news36hls/live.m3u8
 
 #EXTINF:-1 tvg-id="DDChhattisgarh.in@SD" tvg-logo="https://i.imgur.com/zBg6Iuv.png" group-title="CG Channel" tvg-chno="12",DD Chhattisgarh 720p)
 https://cdn-1.pishow.tv/live/15/master.m3u8
@@ -72,8 +69,11 @@ https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u
 #EXTINF:-1 tvg-id="38" tvg-chno="38" tvg-name="NDTV MP" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zhhvxq.png" group-title="CG Channel" tvg-chno="18",NDTV MP CG
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8
 
-#EXTINF:-1 tvg-id="2081" tvg-name="TV27 News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV27_News.png" group-title="Chhattisgarh News",TV27 News
+#EXTINF:-1 tvg-id="2081" tvg-name="TV27 News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV27_News.png" group-title="CG Channel",TV27 News
 https://sflex07.fun:443/07/jio/app/ts_live_2081.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-name="News 36" tvg-logo="https://i.ibb.co/JjMmN493/1764397203logo009.png" tvg-language="Hindi" group-title="CG Channel" tvg-chno="11",News 36
+https://accountapk.livebox.co.in/news36hls/live.m3u8
 
 
 # ===== Hindi News =====
@@ -457,12 +457,12 @@ https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
 #EXTINF:-1 tvg-id="3088" tvg-name="Sun Neo HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SUN_Neo.png" tvg-language="Entertainment" group-title="Entertainment" tvg-chno="3",Sun Neo (540p)
 http://103.159.180.34:5001/live/3088.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SUN_Neo.png" group-title="Indian",Sun Neo HD India
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SUN_Neo.png" group-title="Entertainment",Sun Neo HD India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
 https://livestream8.sunnxt.com/248c92b73514435686fd72ba325d4008/SunNeoHDB_IN_index.mpd
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SUN_Neo.png" group-title="Indian",Sun Neo HD Australia
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SUN_Neo.png" group-title="Entertainment",Sun Neo HD Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
 https://livestream8.sunnxt.com/41b03d5d969e40fe9c8a221c67af6ab8/SunNeoHDB_AU_index.mpd
