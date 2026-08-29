@@ -1,182 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="dddd Big Magic 1" group-title="dddd",dddd Big Magic 1
-https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Big-Magic-SD/master/master.m3u8
-
-#EXTINF:-1 tvg-name="dddd Food Food 1" group-title="dddd",dddd Food Food 1
-https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
-
-#EXTINF:-1 tvg-name="dddd Sadhna MP Chattisgarh 1" group-title="dddd",dddd Sadhna MP Chattisgarh 1
-https://m-c02-j2apps.s.loris.llnwd.net/hls/1647.SadhnaMPChattisgarh.in.m3u8
-
-#EXTINF:-1 tvg-name="dddd Utsav Bharat 1" group-title="dddd",dddd Utsav Bharat 1
-https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-
-#EXTINF:-1 tvg-name="dddd Utsav Plus 1" group-title="dddd",dddd Utsav Plus 1
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavPlus.m3u8
-
-#EXTINF:-1 tvg-name="dddd Sadhna TV 1" group-title="dddd",dddd Sadhna TV 1
-https://mumbai-edge.smartplaytv.in/SadhnaTV/index.m3u8
-
-#EXTINF:-1 tvg-name="dddd Darshan 24 1" group-title="dddd",dddd Darshan 24 1
-https://mumbai-edge.smartplaytv.in/Darshan24/index.m3u8
-
-#EXTINF:-1 tvg-name="dddd Divya TV 1" group-title="dddd",dddd Divya TV 1
-https://mumbai-edge.smartplaytv.in/DivyaTV/index.m3u8
-
-#EXTINF:-1 tvg-name="dddd Arihant TV 1" group-title="dddd",dddd Arihant TV 1
-https://mumbai-edge.smartplaytv.in/ArihantTV/index.m3u8
-
-#EXTINF:-1 tvg-name="dddd Shubh TV 1" group-title="dddd",dddd Shubh TV 1
-https://mumbai-edge.smartplaytv.in/ShubhTV/index.m3u8
-
-#EXTINF:-1 tvg-name="dddd Hare Krsna TV 1" group-title="dddd",dddd Hare Krsna TV 1
-https://d2j0lo0u0tyu11.cloudfront.net/out/v1/0bb2d1f705c84d69bd654b1d92d4b998/index.m3u8
-
-#EXTINF:-1 tvg-name="dddd JALWA MUSIC FHD 1" group-title="dddd",dddd JALWA MUSIC FHD 1
-https://cdn01.medialive.one:2096/JALWAMUSICFHD/index.m3u8
-
-#EXTINF:-1 tvg-name="dddd Channel 1633 1" group-title="dddd",dddd Channel 1633 1
-https://delta45tatasky.akamaized.net/out/i/1633.mpd
-
-#EXTINF:-1 tvg-name="dddd MH One Shraddha 1" group-title="dddd",dddd MH One Shraddha 1
-https://rtmp.smartstream.video/mhoneshradha/mhoneshradha/chunklist_w336714176.m3u8
-
-#EXTINF:-1 tvg-name="dddd Superfine Films 1" group-title="dddd",dddd Superfine Films 1
-https://runn-tv.keralive.workers.dev/runntv/stream/p_supjio/playlist.m3u8
-
-#EXTINF:-1 tvg-name="dddd Superfine Films 2" group-title="dddd",dddd Superfine Films 2
-https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
-
-#EXTINF:-1 tvg-name="dddd Big Magic 2" group-title="dddd",dddd Big Magic 2
-https://cdn-1.pishow.tv/live/11/master.m3u8
-
-#EXTINF:-1 tvg-name="dddd Big Magic 3" group-title="dddd",dddd Big Magic 3
-https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Big-Magic-SD/master/master.m3u8?hdnts=st=1787365673~exp=1787368673~acl=/out/v1/ZEE5_Live_Channels/Big-Magic-SD/master/*~id=bd4b08f6-5525-404f-a58c-aabb4a4425f6~data=non-ssai_bd4b08f6-5525-404f-a58c-aabb4a4425f6~hmac=3e063a6cbbef3fb9d800732b62c0b574efe6055f10a979eb99c0c098b5c5d041&req_id=non-ssai_bd4b08f6-5525-404f-a58c-aabb4a4425f6
-
-#EXTINF:-1 tvg-name="dddd Big Magic 4" group-title="dddd",dddd Big Magic 4
-https://bhoomtv.net/geo/live.m3u8?id=1359&vtoken=st=1787295422~exp=1787296082~data=7b098b11c06442e53a3cca17bf52017694ce45d2~id=1359~ip=2409:40c4:2118:90e4:48f4:f1c9:cd81:e211~hmac=2ff204b907c41a737591291b7ef5edcd403d4ee454f80aaa5f497e3a90194d7f
-
-#EXTINF:-1 tvg-name="dddd DD National SD 1" group-title="dddd",dddd DD National SD 1
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8
-
-#EXTINF:-1 tvg-name="dddd DD National SD 2" group-title="dddd",dddd DD National SD 2
-https://cdn-1.pishow.tv/live/11/11_0.m3u8
-
-#EXTINF:-1 tvg-name="dddd DD National SD 3" group-title="dddd",dddd DD National SD 3
-https://cdn-1.pishow.tv/live/15/master.m3u8
-
-#EXTINF:-1 tvg-name="dddd DD National SD 4" group-title="dddd",dddd DD National SD 4
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational2/default/main.mpd
-
-#EXTINF:-1 tvg-name="dddd All Time Movies 1" group-title="dddd",dddd All Time Movies 1
-https://runn-tv.keralive.workers.dev/penmusic/stream/altmov/manifest/3.m3u8
-
-#EXTINF:-1 tvg-name="dddd YYZ TV 1" group-title="dddd",dddd YYZ TV 1
-https://yyz-tv.keralive.workers.dev/live/sursangam/index.m3u8
-
-#EXTINF:-1 tvg-name="dddd YYZ TV 2" group-title="dddd",dddd YYZ TV 2
-http://cdn12.henico.net:8080/live/sursangam/index.m3u8
-
-#EXTINF:-1 tvg-name="dddd DIY ART 1" group-title="dddd",dddd DIY ART 1
-https://streams2.sofast.tv/ptnr-yupptv/title-DIY-ART_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2cafac16-f982-4563-9951-ccd6ab0c2c6b/manifest.m3u8?hdnts=st%3D1776489986~exp%3D1776511586~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-DIY-ART_YUPPTV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F2cafac16-f982-4563-9951-ccd6ab0c2c6b%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_40.65.61.144_yuppfast_2_channel_265_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_40.65.61.144_yuppfast_2_channel_265_-1~hmac%3Dc797d1a766e887db8954c523854f277d3085802106d7dd0a9cd38e2a6038f2ad
-
-#EXTINF:-1 tvg-name="dddd Big Star Bollywood 1" group-title="dddd",dddd Big Star Bollywood 1
-https://amigofx.com:1936/bigstarmovie/bigstarmovie/playlist.m3u8
-
-#EXTINF:-1 tvg-name="dddd Bolly Gold 1" group-title="dddd",dddd Bolly Gold 1
-https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
-
-#EXTINF:-1 tvg-name="dddd Visionbeats 1" group-title="dddd",dddd Visionbeats 1
-https://visionbeats.keralive.workers.dev/Visionbeats/index.m3u8
-
-#EXTINF:-1 tvg-name="dddd Visionbeats 2" group-title="dddd",dddd Visionbeats 2
-http://a-edge.bliscdn.com/Visionbeats/index.m3u8
-
-#EXTINF:-1 tvg-name="dddd LaughterShots 1" group-title="dddd",dddd LaughterShots 1
-https://vglivessai.akamaized.net/ptnr-lg/title-LaughterShots_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5be888da-9d5b-4e52-ab98-9a857df2f81a/playlist.m3u8
-
-#EXTINF:-1 tvg-name="dddd Shraddha 1" group-title="dddd",dddd Shraddha 1
-https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8
-
-#EXTINF:-1 tvg-name="dddd Shraddha 2" group-title="dddd",dddd Shraddha 2
-https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="dddd Peace of Mind 1" group-title="dddd",dddd Peace of Mind 1
-https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-
-#EXTINF:-1 tvg-name="dddd Peace of Mind 2" group-title="dddd",dddd Peace of Mind 2
-https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st=1787279013~exp=1787300613~acl=!*/181224/smil:peaceofmind.smil/*!/payload/yupptvott_5_-1_5b1795ef-9e1d-d090-8701-c0ab75b0db40_IN_2409:40c4:2118:90e4:48f4:f1c9:cd81:e211_yupptv_1_channel_4571_-1/*~data=yupptvott_5_-1_5b1795ef-9e1d-d090-8701-c0ab75b0db40_IN_2409:40c4:2118:90e4:48f4:f1c9:cd81:e211_yupptv_1_channel_4571_-1~hmac=78ef541461da35268d84328527910f3fb1674c6724e04886e32c00a512dd3ff7
-
-#EXTINF:-1 tvg-name="dddd Sai Leela TV 1" group-title="dddd",dddd Sai Leela TV 1
-https://server.thelegitpro.in/saileelatv/saileelatv/index.m3u8
-
-#EXTINF:-1 tvg-name="dddd Jyotish Duniya 1" group-title="dddd",dddd Jyotish Duniya 1
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/jyotish-duniya/master.m3u8
-
-#EXTINF:-1 tvg-name="dddd Food Food 2" group-title="dddd",dddd Food Food 2
-https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
-
-#EXTINF:-1 tvg-name="dddd Kutingg 1" group-title="dddd",dddd Kutingg 1
-https://balajitelefilms-yupptv.vgcdn.net/v1/019d675553f51ea540a815e5635b31/019d67562bdd1ea540a815e5635b34/playlist.m3u8
-
-#EXTINF:-1 tvg-name="dddd Runn TV 1" group-title="dddd",dddd Runn TV 1
-https://supflm.cdn.runn.tv/runntv/stream/p_supjio/manifest/1.m3u8
-
-#EXTINF:-1 tvg-name="dddd Runn Action 1" group-title="dddd",dddd Runn Action 1
-https://runact.cdn.runn.tv/runntv/stream/p_runact/playlist.m3u8
-
-#EXTINF:-1 tvg-name="dddd Runn Short Films 1" group-title="dddd",dddd Runn Short Films 1
-https://f72e02ae6fd4491980c663c8729a1afb.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/runshf-airtel/playlist.m3u8
-
-#EXTINF:-1 tvg-name="dddd Runn Thrillers 1" group-title="dddd",dddd Runn Thrillers 1
-https://runact.cdn.runn.tv/runntv/stream/p_runthr/playlist.m3u8
-
-#EXTINF:-1 tvg-name="dddd Dice 1" group-title="dddd",dddd Dice 1
-https://dicemedia.cdn.runn.tv/pocketaces/stream/dicmed/playlist.m3u8
-
-#EXTINF:-1 tvg-name="dddd Filter Copy 1" group-title="dddd",dddd Filter Copy 1
-https://filtercopy.cdn.runn.tv/pocketaces/stream/fltrcopy/playlist.m3u8
-
-#EXTINF:-1 tvg-name="dddd ISKCON Vrindavan 1" group-title="dddd",dddd ISKCON Vrindavan 1
-https://cam3.pc.cdn.bitgravity.com/cam/live/feed023/Prasar_bharati_OTT/playlist.m3u8
-
-#EXTINF:-1 tvg-name="dddd Somnath Temple 1" group-title="dddd",dddd Somnath Temple 1
-https://cam3.pc.cdn.bitgravity.com/cam/live/somnath1/Prasar_bharati_OTT/playlist.m3u8
-
-#EXTINF:-1 tvg-name="dddd Shirdi Saibaba 1" group-title="dddd",dddd Shirdi Saibaba 1
-https://cam3.pc.cdn.bitgravity.com/cam/live/feed008/Prasar_bharati_OTT/playlist.m3u8
-
-#EXTINF:-1 tvg-name="dddd Kashi Vishwanath Temple 1" group-title="dddd",dddd Kashi Vishwanath Temple 1
-https://cam3.pc.cdn.bitgravity.com/cam/live/Kashi_Vishwanath/Prasar_bharati_OTT/playlist.m3u8
-
-#EXTINF:-1 tvg-name="dddd Mahavir Temple Patna 1" group-title="dddd",dddd Mahavir Temple Patna 1
-https://cam3.pc.cdn.bitgravity.com/cam/live/PatnaHanuman/Prasar_bharati_OTT/playlist.m3u8
-
-#EXTINF:-1 tvg-name="dddd Dagdusheth Halwai Ganpati Temple Pune 1" group-title="dddd",dddd Dagdusheth Halwai Ganpati Temple Pune 1
-https://cam3.pc.cdn.bitgravity.com/cam/live/dagdusheth1/Prasar_bharati_OTT/playlist.m3u8
-
-#EXTINF:-1 tvg-name="dddd Naina Devi 1" group-title="dddd",dddd Naina Devi 1
-https://cam3.pc.cdn.bitgravity.com/cam/live/Nainadevi/Prasar_bharati_OTT/playlist.m3u8
-
-#EXTINF:-1 tvg-name="dddd Harimandir Ji Patna Saheb 1" group-title="dddd",dddd Harimandir Ji Patna Saheb 1
-https://cam3.pc.cdn.bitgravity.com/cam/live/gurudwara_patnasahib/Prasar_bharati_OTT/playlist.m3u8
-
-#EXTINF:-1 tvg-name="dddd Naga Sai Temple Coimbatore 1" group-title="dddd",dddd Naga Sai Temple Coimbatore 1
-https://cam3.pc.cdn.bitgravity.com/cam/live/feed88_1/nagasai/Prasar_bharati_OTT/playlist.m3u8
-
-#EXTINF:-1 tvg-name="dddd Sun Neo HD 1" group-title="dddd",dddd Sun Neo HD 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
-https://livestream8.sunnxt.com/248c92b73514435686fd72ba325d4008/SunNeoHDB_IN_index.mpd
-
-#EXTINF:-1 tvg-name="dddd Sun Neo HD Australia 1" group-title="dddd",dddd Sun Neo HD Australia 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
-https://livestream8.sunnxt.com/41b03d5d969e40fe9c8a221c67af6ab8/SunNeoHDB_AU_index.mpd
-
-
-
 # ===== CG Channel =====
 
 
@@ -377,7 +200,9 @@ https://newsliveindia.com:4433/bhaktidhara/index.m3u8
 
 #EXTINF:-1 tvg-id="609" tvg-name="mh1 Shraddha" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MH_ONE_SHRADDHA/images/LOGO_HD/image.png" tvg-language="Punjabi" group-title="Bhakti" tvg-chno="48", Mh1 Shraddha
 http://103.159.180.34:5001/live/609.m3u8
-https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8  360p hai 
+
+#EXTINF:-1 tvg-id="609" tvg-name="MH1 Shraddha 360p" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MH_ONE_SHRADDHA/images/LOGO_HD/image.png" tvg-language="Punjabi" group-title="Bhakti", MH1 Shraddha 360p
+https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8
 
 #EXTINF:-1 tvg-id="AdhyatmTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Adhyatam_TV.png" tvg-language="Bhakti" group-title="Bhakti" tvg-chno="2",Adhyatm TV HD (720p)
 https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
@@ -543,6 +368,24 @@ https://shemaroo.keralive.workers.dev/du_bollywoodmovies1/du_bollywoodmovies_108
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="Ott",Hindi Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
 
+#EXTINF:-1 tvg-name="Runn TV" tvg-logo="https://i.ibb.co/b5kFqZWw/unnamed.png" group-title="Ott", Runn TV
+https://supflm.cdn.runn.tv/runntv/stream/p_supjio/manifest/1.m3u8
+
+#EXTINF:-1 tvg-name="Runn Action" tvg-logo="https://i.ibb.co/1tQ20SJm/1787992722314.png" group-title="Ott", Runn Action
+https://runact.cdn.runn.tv/runntv/stream/p_runact/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Runn Short Films" tvg-logo="https://i.ibb.co/0y7cBnsF/1787992834963.png" group-title="Ott", Runn Short Films
+https://f72e02ae6fd4491980c663c8729a1afb.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/runshf-airtel/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Runn Thrillers" tvg-logo="https://i.ibb.co/xbStxbV/1787992944798.png" group-title="Ott", Runn Thrillers
+https://runact.cdn.runn.tv/runntv/stream/p_runthr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Dice Media" tvg-logo="https://i.ibb.co/BKZvD1s2/1787993772699.png" group-title="Ott", Dice Media
+https://dicemedia.cdn.runn.tv/pocketaces/stream/dicmed/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Filter Copy" tvg-logo="https://i.ibb.co/B5sQDR4L/1787993872533.png" group-title="Ott", Filter Copy
+https://filtercopy.cdn.runn.tv/pocketaces/stream/fltrcopy/playlist.m3u8
+
 
 
 
@@ -579,6 +422,8 @@ https://amg13643-amg13643c2-amgplt0016.playout.now3.amagi.tv/playlist/amg13643-a
 #EXTINF:-1 tvg-id="3074" tvg-name="Shemaroo Filmy Gaane" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrfgn.png" tvg-language="Music" group-title="Music" tvg-chno="10",Shemaroo Filmy Gaane
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Vision beats" tvg-logo="https://i.ibb.co/yByqfYT0/1787991782608.png" group-title="Music", Vision beats
+http://a-edge.bliscdn.com/Visionbeats/index.m3u8
 
 
 
@@ -709,6 +554,10 @@ http://103.175.73.12:8080/live/25/25_0.m3u8
 #EXTINF:-1 tvg-id="47" tvg-chno="47" tvg-name="Bollywood 4U" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sinxiy.png" tvg-language="Entertainment" group-title="Entertainment" tvg-chno="8",Bollywood 4U HD
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8?
 
+#EXTINF:-1 tvg-name="Kutingg" tvg-logo="https://i.ibb.co/fYfRpMMD/1787992550265.png" group-title="Entertainment", Kutingg
+https://balajitelefilms-yupptv.vgcdn.net/v1/019d675553f51ea540a815e5635b31/019d67562bdd1ea540a815e5635b34/playlist.m3u8
+
+
 
 
 
@@ -722,6 +571,10 @@ https://cdn-6.pishow.tv/live/9/master.m3u8
 
 #EXTINF:-1 tvg-id="DDKisan.in@SD",DD Kisan (504p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8
+
+#EXTINF:-1 tvg-name="DIY Rangoli" tvg-logo="https://i.ibb.co/SX0Xs3p1/1787990306682.png" group-title="Science", DIY Rangoli
+https://streams2.sofast.tv/ptnr-yupptv/title-DIY-ART_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2cafac16-f982-4563-9951-ccd6ab0c2c6b/manifest.m3u8?hdnts=st%3D1776489986~exp%3D1776511586~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-DIY-ART_YUPPTV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F2cafac16-f982-4563-9951-ccd6ab0c2c6b%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_40.65.61.144_yuppfast_2_channel_265_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_40.65.61.144_yuppfast_2_channel_265_-1~hmac%3Dc797d1a766e887db8954c523854f277d3085802106d7dd0a9cd38e2a6038f2ad
+
 
 #EXTINF:-1 tvg-id="INBA5100029JI" tvg-name="The Pet Collective" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100029JI_20260623T010600SQUARE.png" tvg-language="Science" group-title="Science" tvg-chno="3",The Pet Collective
 https://0022c177e6f043d39b3b19335b283a1c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_ThePetCollective/playlist.m3u8
@@ -751,6 +604,9 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-hz1kvcvo24x96.m3u8
 
 #EXTINF:-1 tvg-id="IN3600006RT" tvg-name="Comedy King" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600006RT_20260623T014707SQUARE.png" tvg-language="Comedy" group-title="Comedy" tvg-chno="2",Comedy King
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-ck61vv76day3g.m3u8
+
+#EXTINF:-1 tvg-name="Laughter Shots" tvg-logo="https://i.ibb.co/QvcZVWK8/1787991923615.png" group-title="Comedy", Laughter Shots
+https://vglivessai.akamaized.net/ptnr-lg/title-LaughterShots_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5be888da-9d5b-4e52-ab98-9a857df2f81a/playlist.m3u8
 
 #EXTINF:-1 tvg-id="INBA5100030AO" tvg-name="FailArmy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100030AO_20260623T012204SQUARE.png" tvg-language="Comedy" group-title="Comedy" tvg-chno="3",FailArmy
 https://d89ea9d7a37f40408057298b5ea93acc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_FailArmy/playlist.m3u8
@@ -789,10 +645,10 @@ http://103.175.73.12:8080/live/257/257_0.m3u8
 https://amigofx.com:1936/bigstarmovie/bigstarmovie/chunklist_w777660157.m3u8
 
 #EXTINF:-1 tvg-id="54" tvg-name="All Time Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/All-Time-Movies-Logo_2000_X_1125_Transpharent.png" tvg-language="Hindi Movie" group-title="Hindi Movie" tvg-chno="8",All Time Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-http://103.175.73.12:8080/live/54/54_0.m3u8
+https://airtel-alltimemovies.cdn.runn.tv/penmusic/stream/altmov/playlist.m3u8
+
+#EXTINF:-1 tvg-name="YYZ Tv" tvg-logo="https://i.ibb.co/nqPnsFW6/1787990024047.png" group-title="Music", YYZ Tv 
+http://cdn12.henico.net:8080/live/sursangam/index.m3u8
 
 #EXTINF:-1 tvg-id="3544" tvg-name="Eros Universe Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/81dd5906024a3ab3b43d700a7814abfe.png" tvg-language="Hindi Movie" group-title="Hindi Movie" tvg-chno="9",Eros Universe Entertainment
 https://airtel-eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
@@ -800,3 +656,45 @@ https://airtel-eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
 #EXTINF:-1 tvg-id="3543" tvg-name="Eros Universe Bollywood Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/b59deb98404cd369b8b8d2ddfed845ba.png" tvg-language="Hindi Movie" group-title="Hindi Movie" tvg-chno="10",Eros Universe Bollywood Cinema
 https://airtel-eros-blywdcnm.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Superfine Films" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_supjio.png" group-title="Hindi Movie", Superfine Films
+https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NH Bolly Gold" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png" group-title="Hindi Movie",NH Bolly Gold
+https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
+
+
+
+
+# ===== Live Darshan =====
+
+
+#EXTINF:-1 tvg-name="ISKCON Vrindavan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Iskcon_logo.svg/200px-Iskcon_logo.svg.png" group-title="Live Darshan", ISKCON Vrindavan
+https://cam3.pc.cdn.bitgravity.com/cam/live/feed023/Prasar_bharati_OTT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kashi Vishwanath Temple" tvg-logo="" group-title="Live Darshan", Kashi Vishwanath Temple
+https://cam3.pc.cdn.bitgravity.com/cam/live/Kashi_Vishwanath/Prasar_bharati_OTT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mahavir Temple Patna" tvg-logo="" group-title="Live Darshan", Mahavir Temple Patna
+https://cam3.pc.cdn.bitgravity.com/cam/live/PatnaHanuman/Prasar_bharati_OTT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Dagdusheth Halwai" tvg-logo="" group-title="Live Darshan", Dagdusheth Halwai Ganpati Temple Pune
+https://cam3.pc.cdn.bitgravity.com/cam/live/dagdusheth1/Prasar_bharati_OTT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Naga Sai Temple" tvg-logo="" group-title="Live Darshan", Naga Sai Temple Coimbatore
+https://cam3.pc.cdn.bitgravity.com/cam/live/feed88_1/nagasai/Prasar_bharati_OTT/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="Naina Devi" tvg-logo="https://i.ibb.co/m5wNKkYN/file-000000005bb08211a901876318a0b556-512x512.png" group-title="Live Darshan", Naina Devi
+https://cam3.pc.cdn.bitgravity.com/cam/live/Nainadevi/Prasar_bharati_OTT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Somnath Temple" tvg-logo="https://i.ibb.co/ZRC9Cftd/file-0000000079188211a09f556f1eee2265-512x512.png" group-title="Live Darshan", Somnath Temple
+https://cam3.pc.cdn.bitgravity.com/cam/live/somnath1/Prasar_bharati_OTT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Harimandir Ji Patna Saheb" tvg-logo="https://i.ibb.co/bgXWY4mf/file-0000000093f48211913ae85d23dd0d61-512x512.png" group-title="Live Darshan", Harimandir Ji Patna Saheb
+https://cam3.pc.cdn.bitgravity.com/cam/live/gurudwara_patnasahib/Prasar_bharati_OTT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Shirdi Saibaba" tvg-logo="https://i.ibb.co/Y4PB1Smw/file-00000000bc44821182dd5f34ee5af7c5-512x512-1.png" group-title="Live Darshan", Shirdi Saibaba
+https://cam3.pc.cdn.bitgravity.com/cam/live/feed008/Prasar_bharati_OTT/playlist.m3u8
