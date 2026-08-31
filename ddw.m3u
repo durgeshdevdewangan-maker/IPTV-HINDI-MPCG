@@ -440,6 +440,7 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-sg3jt8k3tr79f.m3u8
 https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FoodFood.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" tvg-language="Food" group-title="Food & Lifestyle" tvg-chno="4",Food Food (576p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/ffc601b3dc8d41c5b09115702538d75a/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
 
 
@@ -481,6 +482,7 @@ https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
 
 #EXTINF:-1 tvg-id="1998" tvg-name="The Q India" tvg-logo="https://i.imgur.com/ETVpGyf.png" tvg-language="Entertainment" group-title="Entertainment" tvg-chno="7",The Q India
 https://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8
+
 
 #EXTINF:-1 tvg-id="47" tvg-chno="47" tvg-name="Bollywood 4U" tvg-logo="https://i.ibb.co/zTT44n0H/file-00000000e58481faa42e94271c3c5088-1.png" tvg-language="Entertainment" group-title="Entertainment" tvg-chno="8",Bollywood 4U HD
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8?
@@ -570,7 +572,7 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-eh4dbez0blej8.m3u8
 #EXTINF:-1 tvg-logo="https://amigofx.com/livetvlogo/bigstarmovie.png" tvg-language="Hindi Movie" group-title="Hindi Movie" tvg-chno="7",Big Star Bollywood
 https://amigofx.com:1936/bigstarmovie/bigstarmovie/chunklist_w777660157.m3u8
 
-#EXTINF:-1 tvg-id="54" tvg-name="All Time Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/All-Time-Movies-Logo_2000_X_1125_Transpharent.png" tvg-language="Hindi Movie" group-title="Hindi Movie" tvg-chno="8",All Time Movies
+#EXTINF:-1 tvg-id="54" tvg-name="All Time Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALL_TIME_MOVIES/images/LOGO_HD/image.png" tvg-language="Hindi Movie" group-title="Hindi Movie" tvg-chno="8",All Time Movies
 https://airtel-alltimemovies.cdn.runn.tv/penmusic/stream/altmov/playlist.m3u8
 
 #EXTINF:-1 tvg-name="YYZ Tv" tvg-logo="https://i.ibb.co/v64WZpJV/1788005708812.png" group-title="Hindi Movie", YYZ Tv 
@@ -593,25 +595,24 @@ https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 
 # ===== Live Darshan =====
 
-
-#EXTINF:-1 tvg-name="ISKCON Vrindavan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Iskcon_logo.svg/200px-Iskcon_logo.svg.png" group-title="Live Darshan", ISKCON Vrindavan
-https://cam3.pc.cdn.bitgravity.com/cam/live/feed023/Prasar_bharati_OTT/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Kashi Vishwanath Temple" tvg-logo="" group-title="Live Darshan", Kashi Vishwanath Temple
+#EXTINF:-1 tvg-name="Kashi Vishwanath Temple" tvg-logo="https://i.ibb.co/7x8DXkHC/file-000000004d4481fba7165d1b66dc48c1.png" group-title="Live Darshan", Kashi Vishwanath Temple
 https://cam3.pc.cdn.bitgravity.com/cam/live/Kashi_Vishwanath/Prasar_bharati_OTT/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Mahavir Temple Patna" tvg-logo="" group-title="Live Darshan", Mahavir Temple Patna
-https://cam3.pc.cdn.bitgravity.com/cam/live/PatnaHanuman/Prasar_bharati_OTT/playlist.m3u8
+#EXTINF:-1 tvg-name="Shirdi Saibaba" tvg-logo="https://i.ibb.co/Y4PB1Smw/file-00000000bc44821182dd5f34ee5af7c5-512x512-1.png" group-title="Live Darshan", Shirdi Saibaba
+https://cam3.pc.cdn.bitgravity.com/cam/live/feed008/Prasar_bharati_OTT/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Dagdusheth Halwai" tvg-logo="" group-title="Live Darshan", Dagdusheth Halwai Ganpati Temple Pune
-https://cam3.pc.cdn.bitgravity.com/cam/live/dagdusheth1/Prasar_bharati_OTT/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Naga Sai Temple" tvg-logo="" group-title="Live Darshan", Naga Sai Temple Coimbatore
+#EXTINF:-1 tvg-name="Naga Sai Temple" tvg-logo="https://i.ibb.co/jPKLh9fL/file-0000000069d481fbb87ce72481a1550b.png" group-title="Live Darshan", Naga Sai Temple Coimbatore
 https://cam3.pc.cdn.bitgravity.com/cam/live/feed88_1/nagasai/Prasar_bharati_OTT/playlist.m3u8
 
+#EXTINF:-1 tvg-name="ISKCON Vrindavan" tvg-logo="https://i.ibb.co/bgXwQz07/file-000000008cec81f58844b5f70e0b582b.png
+" group-title="Live Darshan", ISKCON Vrindavan
+https://cam3.pc.cdn.bitgravity.com/cam/live/feed023/Prasar_bharati_OTT/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Mahavir Temple Patna" tvg-logo="https://i.ibb.co/ch6pCJ8j/file-00000000d130820b8b362c0d0546cfad.png" group-title="Live Darshan", Mahavir Temple Patna
+https://cam3.pc.cdn.bitgravity.com/cam/live/PatnaHanuman/Prasar_bharati_OTT/playlist.m3u8
 
-
+#EXTINF:-1 tvg-name="Dagdusheth Halwai" tvg-logo="https://i.ibb.co/8L00N9JY/file-0000000097dc81fa820d24964245ad20.png" group-title="Live Darshan", Dagdusheth Halwai Ganpati Temple Pune
+https://cam3.pc.cdn.bitgravity.com/cam/live/dagdusheth1/Prasar_bharati_OTT/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Naina Devi" tvg-logo="https://i.ibb.co/m5wNKkYN/file-000000005bb08211a901876318a0b556-512x512.png" group-title="Live Darshan", Naina Devi
 https://cam3.pc.cdn.bitgravity.com/cam/live/Nainadevi/Prasar_bharati_OTT/playlist.m3u8
@@ -622,8 +623,6 @@ https://cam3.pc.cdn.bitgravity.com/cam/live/somnath1/Prasar_bharati_OTT/playlist
 #EXTINF:-1 tvg-name="Harimandir Ji Patna Saheb" tvg-logo="https://i.ibb.co/bgXWY4mf/file-0000000093f48211913ae85d23dd0d61-512x512.png" group-title="Live Darshan", Harimandir Ji Patna Saheb
 https://cam3.pc.cdn.bitgravity.com/cam/live/gurudwara_patnasahib/Prasar_bharati_OTT/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Shirdi Saibaba" tvg-logo="https://i.ibb.co/Y4PB1Smw/file-00000000bc44821182dd5f34ee5af7c5-512x512-1.png" group-title="Live Darshan", Shirdi Saibaba
-https://cam3.pc.cdn.bitgravity.com/cam/live/feed008/Prasar_bharati_OTT/playlist.m3u8
 
 
 
